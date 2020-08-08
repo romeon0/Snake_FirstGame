@@ -1,0 +1,8 @@
+﻿  Source.cpp
+F:\Projects\C++\SnakeGOTOXY\SnakeGOTOXY\Source.cpp(181,17): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+F:\Projects\C++\SnakeGOTOXY\SnakeGOTOXY\Source.cpp(106): warning C4717: 'SnakeGame::CheatPanel': recursive on all control paths, function will cause runtime stack overflow
+  All 243 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SnakeGOTOXY.vcxproj -> F:\Projects\C++\SnakeGOTOXY\Release\SnakeGOTOXY.exe

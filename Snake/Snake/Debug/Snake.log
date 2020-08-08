@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\projects\c++\snake\snake\source.cpp(71): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+e:\projects\c++\snake\snake\source.cpp(198): warning C4018: '<': signed/unsigned mismatch
+e:\projects\c++\snake\snake\source.cpp(315): warning C4018: '<': signed/unsigned mismatch
+  Snake.vcxproj -> E:\Projects\C++\Snake\Debug\Snake.exe
+  Snake.vcxproj -> E:\Projects\C++\Snake\Debug\Snake.pdb (Full PDB)

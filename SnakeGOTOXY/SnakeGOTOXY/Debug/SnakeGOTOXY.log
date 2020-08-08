@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\Projects\C++\SnakeGOTOXY\SnakeGOTOXY\Source.cpp(181,17): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+F:\Projects\C++\SnakeGOTOXY\SnakeGOTOXY\Source.cpp(106): warning C4717: 'SnakeGame::CheatPanel': recursive on all control paths, function will cause runtime stack overflow
+  SnakeGOTOXY.vcxproj -> F:\Projects\C++\SnakeGOTOXY\Debug\SnakeGOTOXY.exe
